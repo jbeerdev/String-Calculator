@@ -18,7 +18,8 @@ public class TestStringCalculator extends TestCase{
 	
 	public void test_addNoneNumbers(){
 		
-		
+		String input = "";
+		int expectedSum = 0;
 		
 		
 	}
